@@ -114,7 +114,7 @@ export const projects = [
     tech: ["React.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
     demo: "https://portfolio-nine-puce-31.vercel.app",
-    code: "https://github.com/Prakashadavi/Portfolio.git",
+    code: "#",
   },
   {
     title: "Chess Game",
@@ -139,10 +139,11 @@ export const projects = [
 
 export const workData = [
   {
-    role: "Developer Intern",
+    role: "Frontend Backend  Developer",
     company: "Pesu  Venture Labs",
     duration: "2026 - Present",
-    description:"Worked on frontend and backend development using modern web technologies",
+    description:
+      "Leading frontend development for enterprise clients, implementing modern frameworks, and mentoring junior developers.",
     color: "purple"
   }
 ];

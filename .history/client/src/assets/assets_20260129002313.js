@@ -139,10 +139,11 @@ export const projects = [
 
 export const workData = [
   {
-    role: "Developer Intern",
+    role: "Frontend Backend  Developer",
     company: "Pesu  Venture Labs",
     duration: "2026 - Present",
-    description:"Worked on frontend and backend development using modern web technologies",
+    description:"Frontend & Backend Developer Intern – Built responsive web applications using React, Tailwind CSS, and Node.js as part of a college internship program.
+",
     color: "purple"
   }
 ];
