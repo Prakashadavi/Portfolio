@@ -91,7 +91,7 @@ const Contact = () => {
                                 </h3>
 
                                 <p className="text-gray-400">
-                                    Bengaluru, PES College
+                                    B, Ashok Nagar
                                 </p>
                             </div>
                         </div>
