@@ -105,7 +105,7 @@ export const projects = [
     tech: ["WebSockets", "GraphQL", "MySQL", "Chart.js"],
     icons: [FaReact, FaDatabase],
     demo: "https://social-media-frontend-sage-three.vercel.app",
-    code: "https://github.com/Prakashadavi/Social-Media",
+    code: "https://social-media-frontend-sage-three.vercel.app",
   },
   {
     title: "Portfolio Website",
