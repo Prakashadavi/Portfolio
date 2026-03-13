@@ -104,8 +104,8 @@ export const projects = [
     image: projectImg3,
     tech: ["WebSockets", "GraphQL", "MySQL", "Chart.js"],
     icons: [FaReact, FaDatabase],
-    demo: "#",
-    code: "#",
+    demo: "https://github.com/Prakashadavi/Social-Media.git",
+    code: "https://social-media-frontend-sage-three.vercel.app",
   },
   {
     title: "Portfolio Website",
@@ -113,8 +113,8 @@ export const projects = [
     image: projectImg4,
     tech: ["React.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
-    demo: "https://portfolio-nine-puce-31.vercel.app/",
-    code: "#",
+    demo: "https://portfolio-nine-puce-31.vercel.app",
+    code: "https://github.com/Prakashadavi/Portfolio.git",
   },
   {
     title: "Chess Game",
@@ -139,11 +139,10 @@ export const projects = [
 
 export const workData = [
   {
-    role: "Frontend Backend  Developer",
+    role: "Developer Intern",
     company: "Pesu  Venture Labs",
     duration: "2026 - Present",
-    description:
-      "Leading frontend development for enterprise clients, implementing modern frameworks, and mentoring junior developers.",
+    description:"Worked on frontend and backend development using modern web technologies",
     color: "purple"
   }
 ];

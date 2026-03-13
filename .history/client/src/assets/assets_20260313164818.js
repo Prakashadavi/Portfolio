@@ -105,7 +105,7 @@ export const projects = [
     tech: ["WebSockets", "GraphQL", "MySQL", "Chart.js"],
     icons: [FaReact, FaDatabase],
     demo: "#",
-    code: "#",
+    code: "https://social-media-frontend-sage-three.vercel.app",
   },
   {
     title: "Portfolio Website",
@@ -139,11 +139,10 @@ export const projects = [
 
 export const workData = [
   {
-    role: "Frontend Backend  Developer",
+    role: "Developer Intern",
     company: "Pesu  Venture Labs",
     duration: "2026 - Present",
-    description:
-      ".",
+    description:"Worked on frontend and backend development using modern web technologies",
     color: "purple"
   }
 ];
