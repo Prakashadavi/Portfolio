@@ -91,7 +91,7 @@ const Contact = () => {
                                 </h3>
 
                                 <p className="text-gray-400">
-                                    Bengalueru, Ashok Nagar
+                                    Bengaluru, PES College
                                 </p>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ const Contact = () => {
                                 </h3>
 
                                 <p className="text-gray-400">
-                                    +919591748323
+                                    +917483
                                 </p>
                             </div>
                         </div>
