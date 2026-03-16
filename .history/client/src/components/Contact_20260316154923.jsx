@@ -133,13 +133,13 @@ const Contact = () => {
 
                             <div className="flex space-x-4">
                                 <a
-                                    href="https://github.com/Prakashadavi"
+                                    href=""
                                     className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-pink hover:text-white transition duration-300"
                                 >
                                     <FaGithub />
                                 </a>
                                 <a
-                                    href="https://www.linkedin.com/in/prakash-adavi-5b449828b"
+                                    href="#"
                                     className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-purple hover:text-white transition duration-300"
                                 >
                                     <FaLinkedin />

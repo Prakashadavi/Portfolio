@@ -139,7 +139,7 @@ const Contact = () => {
                                     <FaGithub />
                                 </a>
                                 <a
-                                    href="https://www.linkedin.com/in/prakash-adavi-5b449828b"
+                                    href="https://www.linkedin.com/in/prakash-adavi-5b449828b/"
                                     className="w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-purple hover:text-white transition duration-300"
                                 >
                                     <FaLinkedin />
