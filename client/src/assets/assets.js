@@ -102,7 +102,7 @@ export const projects = [
     title: "Social Media App",
     description: "A productivity application with drag-and-drop functionality and real-time updates.",
     image: projectImg3,
-    tech: ["WebSockets", "GraphQL", "MySQL", "Chart.js"],
+    tech: ["Docker", "Nginx", "Redux", "MongoDB"],
     icons: [FaReact, FaDatabase],
     demo: "https://social-media-frontend-sage-three.vercel.app",
     code: "https://github.com/Prakashadavi/Social-Media",
