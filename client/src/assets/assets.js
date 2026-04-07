@@ -41,7 +41,7 @@ export const skills = [
     title: 'Frontend Development',
     icon: FaReact,
     description: 'Building responsive and interactive user interfaces with modern frameworks.',
-    tags: ['React', 'Javascript']
+    tags: ['React', 'Javascript',"Tailwind CSS","HTML","CSS"]
   },
   {
     title: 'Backend Development',
@@ -70,10 +70,16 @@ export const skills = [
     tags: ["OS", "DBMS", "CN", "OOP"]
   },
   {
-    title: 'Tools & Technologies',
+    title: 'Tools',
     icon: FaTools,
     description: 'Essential tools and technologies I use in my development workflow.',
     tags: ['Git & GitHub', 'VS Code', 'Vercel', 'MySQL Workbench','Postman','Thunder Client']
+  },
+  {
+    title: 'Devops',
+    icon: FaCloud,
+    description: 'Technologies I use for containerization, deployment, and system scaling.',
+    tags: ["Docker", "Kubernetes", "Nginx", "Linux" ]
   }
 ];
 
